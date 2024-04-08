@@ -98,6 +98,11 @@ nav {
     flex-direction: column;
 }
 
+.about-me__info {
+    display: flex;
+    flex-direction: column;
+}
+
 .about-me__info--container {
     display: flex;
     flex-direction: column;
@@ -133,3 +138,20 @@ transform: scale (2);
     margin-bottom: 28px;
 }
 
+.about-me__link {
+    color:black;
+    font-size:20px;
+    margin: 0 auto;
+    padding: 0 16px;
+    text-decoration: None;
+}
+
+.about-me__img--container {
+ flex: 1;
+ display: flex;
+ align-items:center;
+}
+
+.about-me__img {
+width: 100%;
+}
