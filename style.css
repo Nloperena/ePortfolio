@@ -255,6 +255,7 @@ nav {
 /* TECH - STACK */
 
 .language__img {
+    font-size: 9rem;
   width: 100%;
   max-width: 100px;
   transition: all 300ms;
